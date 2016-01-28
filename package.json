@@ -28,6 +28,6 @@
   "dependencies": {
     "semterface": "github:semterface/semterface",
     "serialport": "^2.0.5",
-    "simple-peer": "^5.11.7"
+    "simple-peer": "^5.11.9"
   }
 }
